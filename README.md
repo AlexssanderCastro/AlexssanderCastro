@@ -1,7 +1,6 @@
 - 👋 Ola, Sou o Alexssander Oliveira.
 - 👀 Estou atualmente cursando Análise e Desenvolvimento de Sistemas.
-- 🌱 Tenho 21 anos atualmente.
-- 📫 Meu Email para contato é: alexssandercastro1@gmail.com 
+
 
 
 <!---
