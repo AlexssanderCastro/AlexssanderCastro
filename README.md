@@ -14,16 +14,22 @@
 - 🚀 Atualmente estudando Java com Maven, PostgreSQL, TypeScript, Angular e mais!
 ---
 
-### 🧠 Tecnologias que estou aprendendo
+### 🧠 Tecnologias 
 
 ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=openjdk)
 ![Maven](https://img.shields.io/badge/-Maven-000?style=flat&logo=apachemaven)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql)
+![C](https://img.shields.io/badge/-C-000?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=cpp)
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
 ![Angular](https://img.shields.io/badge/-Angular-000?style=flat&logo=angular)
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-000?style=flat&logo=visualstudiocode)
+
 
 ---
 
