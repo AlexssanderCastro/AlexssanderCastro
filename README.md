@@ -1,13 +1,32 @@
-<h1 align="center">E aí! 👋 Me chamo Alexssander</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&customColorList=2,22&height=100&section=header"/>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&size=32&pause=1000&color=0D56E3&background=07003700&center=true&width=450&height=150&lines=E+a%C3%AD%2C+me+chamo+Alexssander%F0%9F%A4%99;Bem+vindo+ao+meu+perfil!+%F0%9F%98%84" alt="Typing SVG" /></a>
+</p>
+
+<br>
+
+---
+<h2 align="center">🎓 Sobre mim</h2>
+<br/>
+<br/>
+<br/>
+📚 Estudante de Análise e Desenvolvimento de Sistemas (IFTM) <br/>
+🚀 Aspirante a Desenvolvedor em constante evolução <br/>
+🔧 Curioso por backend, frontend e boas práticas de desenvolvimento<br/>
+🚀 Atualmente estudando Java com Maven, PostgreSQL, Python, HTML, CSS, JavaScript, TypeScript e Angular
 
 
 <br>
 <br>
 <br>
 
-
+---
 <h2 align="center">🧠 Tecnologias</h2>
 
+<br>
+<br>
+<br>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
@@ -79,11 +98,11 @@
 <br>
 <br>
 <br>
-<blockquote align="center">
-  Código é poesia que funciona. ✨
-</blockquote>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&size=32&pause=1000&color=0D56E3&background=07003700&center=true&width=450&height=150&lines=Obrigado+pela+visita%2C+at%C3%A9+mais%E2%9C%8C%EF%B8%8F" alt="Typing SVG" /></a>
+</p>
 
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&customColorList=2,22&height=100&section=footer"/>
 <!---
 alexssander77/alexssander77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
