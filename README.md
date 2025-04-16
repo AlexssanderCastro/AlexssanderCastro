@@ -5,16 +5,20 @@
   🚀 Aspirante a Desenvolvedor em constante evolução <br/>
 </p>
 
----
+<hr/>
 
-### 🎓 Sobre mim
-- 👨‍💻 Futuro Dev apaixonado por tecnologia e aprendizado contínuo
-- 📍 Estudo no Instituto Federal do Triângulo Mineiro (IFTM)
-- 🔧 Curioso por backend, frontend e boas práticas de desenvolvimento
-- 🚀 Atualmente estudando Java com Maven, PostgreSQL, TypeScript, Angular e mais!
----
+<h2 align="center">🎓 Sobre mim</h2>
 
-### 🧠 Tecnologias 
+<ul>
+  <li>👨‍💻 Futuro Dev apaixonado por tecnologia e aprendizado contínuo</li>
+  <li>📍 Estudo no Instituto Federal do Triângulo Mineiro (IFTM)</li>
+  <li>🔧 Curioso por backend, frontend e boas práticas de desenvolvimento</li>
+  <li>🚀 Atualmente estudando Java com Maven, PostgreSQL, C, C++, Python, HTML, CSS, MySQL, JavaScript, TypeScript e Angular</li>
+</ul>
+
+<hr/>
+
+<h2 align="center">🧠 Tecnologias</h2>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
@@ -33,26 +37,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
 </p>
 
+<hr/>
 
----
-
-### 📈 GitHub Stats
+<h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexssanderCastro&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexssanderCastro&layout=compact&theme=radical"/>
 </p>
 
----
+<hr/>
 
-### 📬 Vamos nos conectar!
+<h2 align="center">📬 Vamos nos conectar!</h2>
 
-- ✉️ Email: [alexssandercastro1@email.com]
-- 💼 LinkedIn: [[seulinkedin.com/in/usuario](https://www.linkedin.com/in/alexssander-jos%C3%A9-de-oliveira-de-castro-58b7a7334/)]
+<p align="center">
+  ✉️ Email: <a href="mailto:alexssandercastro1@email.com">alexssandercastro1@email.com</a> <br/>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/alexssander-jos%C3%A9-de-oliveira-de-castro-58b7a7334/" target="_blank">Clique aqui para visitar meu perfil</a>
+</p>
 
----
+<hr/>
 
-> "Código é poesia que funciona." ✨
+<blockquote align="center">
+  Código é poesia que funciona. ✨
+</blockquote>
 
 
 <!---
