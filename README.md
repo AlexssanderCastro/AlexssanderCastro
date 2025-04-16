@@ -7,6 +7,8 @@
 <br>
 
 ---
+
+<br>
 <h2 align="center">🎓 Sobre mim</h2>
 <br/>
 <br/>
@@ -22,6 +24,8 @@
 <br>
 
 ---
+
+<br>
 <h2 align="center">🧠 Tecnologias</h2>
 
 <br>
@@ -47,10 +51,6 @@
 <hr/>
 
 <br>
-<br>
-<br>
-<br>
-<br>
 
 
 <h2 align="center">📈 GitHub Stats</h2>
@@ -73,6 +73,7 @@
 
 <hr/>
 
+<br>
 <h2 align="center">📬 Contato!</h2>
 
 <p align="center">
