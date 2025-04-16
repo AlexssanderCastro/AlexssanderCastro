@@ -4,10 +4,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-
-
 
 
 <h2 align="center">🧠 Tecnologias</h2>
@@ -36,8 +32,7 @@
 <br>
 <br>
 <br>
-<br>
-<br>
+
 
 <h2 align="center">📈 GitHub Stats</h2>
 
@@ -55,11 +50,7 @@
 </p>
 
 <!-- Fundo azul customizado -->
-<style>
-  body {
-    background-color: #007acc;
-  }
-</style>
+
 
 <hr/>
 
