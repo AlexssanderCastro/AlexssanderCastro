@@ -25,11 +25,8 @@
 
 ---
 
-<br>
-<h2 align="center">🧠 Tecnologias</h2>
 
-<br>
-<br>
+
 <br>
 <h2 align="center">🧠 Tecnologias</h2>
 
