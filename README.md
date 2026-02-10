@@ -64,7 +64,7 @@
 
 <!-- Caixa do GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexssanderCastro&show_icons=true&count_private=true&hide_title=true&theme=tokyonight&border_radius=10&hide=prs" alt="GitHub Stats" height="180" />
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexssanderCastro&show_icons=true&theme=radical)
 </p>
 
 <!-- Distância entre as duas caixas -->
