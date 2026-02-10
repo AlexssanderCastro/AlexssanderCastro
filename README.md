@@ -62,20 +62,24 @@
 
 <h2 align="center">📈 GitHub Stats</h2>
 
-<!-- Caixa do GitHub Stats -->
-<p align="center">
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexssanderCastro&show_icons=true&theme=radical)
-</p>
+## 📊 Estatísticas do GitHub
 
-<!-- Distância entre as duas caixas -->
-<br/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexssanderCastro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexssanderCastro&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
-<!-- Caixa do GitHub Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexssanderCastro&layout=compact&theme=tokyonight&langs_count=8" height="180" alt="GitHub Top Languages" />
-</p>
+## 🔥 Sequência de Commits
 
-<!-- Fundo azul customizado -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AlexssanderCastro&theme=radical" alt="GitHub Streak"/>
+</div>
+
+## 📈 Gráfico de Contribuições
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlexssanderCastro&theme=radical" alt="Contribution Graph"/>
+</div>
 
 
 <hr/>
