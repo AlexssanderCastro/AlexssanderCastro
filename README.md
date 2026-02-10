@@ -73,11 +73,6 @@ Mindset: Always learning, always growing 🌱
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexssanderCastro&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexssanderCastro&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages"/>
-</div>
-
 <br>
 
 <div align="center">
