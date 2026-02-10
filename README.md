@@ -13,12 +13,12 @@
 ## 🎓 About Me
 
 ```yaml
-name: Alexssander Castro
-education: Systems Analysis and Development @ IFTM
-role: Aspiring Full Stack Developer
-interests: [Backend, Frontend, Clean Code, Software Architecture]
-currently_learning: [Java, Maven, Angular, TypeScript, React, Kafka, Service Architecture]
-mindset: Always learning, always growing 🌱
+Name: Alexssander Castro
+Education: Systems Analysis and Development @ IFTM
+Role: Aspiring Full Stack Developer
+Interests: [Backend, Frontend, Clean Code, Software Architecture]
+Currently learning: [Java, Maven, Angular, TypeScript, React, Kafka, Service Architecture]
+Mindset: Always learning, always growing 🌱
 ```
 
 <br>
