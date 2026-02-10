@@ -33,9 +33,6 @@
 <br>
 <br>
 <br>
-<p align="center">
- Para o seu README, a melhor opção é manter o formato de badge (como o que você já usa), mas com um estilo mais limpo e moderno, usando o logo oficial do Java (o "J" estilizado), que é o mais comum em listas de tecnologia.
-
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven"/>
